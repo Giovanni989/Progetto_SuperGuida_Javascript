@@ -1,0 +1,39 @@
+body {
+height: 100vh;
+background: linear-gradient(rgb(47, 150, 163),rgb(48, 62, 143));
+font-family: sans-serif;
+color: orange;
+}
+
+h1 {
+  background-color: rgba(0, 0, 0, 0.25);
+  box-shadow: 1px 1px 5px;
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  margin-right: 450px;
+  margin-left: 450px;
+}
+p {
+  background-color: rgba(0, 0, 0, 0.25);
+  box-shadow: 1px 1px 5px;
+  padding: 10px;
+  border-radius: 10px;
+  position: relative;
+  margin-right: 550px;
+  margin-left: 550px;
+}
+h2 {
+background-color: rgba(0, 0, 0, 0.25);
+box-shadow: 1px 1px 5px;
+padding: 10px;
+border-radius: 10px;
+position: relative;
+margin-right: 450px;
+margin-left: 450px;
+}
+h3 {
+  margin-right: 450px;
+  margin-left: 450px;
+
+}
